@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm from High Wycombe, UK<br><br>- 🔭 I’m working as QA Automation Engineer at Quadranet Systems Ltd<br>- ⚡ In my free time I used to quality time with family</p>
+<p align="left">I'm from High Wycombe, UK<br><br>- 🔭 I’m working as QA Automation Engineer at Quadranet Systems Ltd<br>- ⚡ In my free time I used to spend quality time with family</p>
 
 ###
 
