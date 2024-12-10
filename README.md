@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  I am Arthiyadevi Thiruvenkadam, passionationate QA automation engineer.</h3>
+<h3 align="left">👩‍💻  I am Arthiyadevi Thiruvenkadam, passionate QA automation engineer.</h3>
 
 ###
 
